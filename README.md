@@ -41,11 +41,13 @@ To complete this assignment, please follow the steps below:
 
 Learnings :
 
-1. ETL
-2. Power Query
-3. Data Model
-4. Cleaning data in power query
-5. Merging data in poer query
-6. Joins
-7. Adding new coloumn in power query
-8. Loading power query data to excel
+- ETL Processes: Proficiency in Extract, Transform, and Load (ETL) methodology.
+  
+- Power Query: Skilled in cleaning and merging data, adding new columns, and generating date tables.
+  
+- Data Modeling: Expertise in establishing relationships within data models.
+  
+- Data Integration: Proficient in loading Power Query data to Excel.
+  
+- Joins: Experience in performing joins within Power Query.
+  
